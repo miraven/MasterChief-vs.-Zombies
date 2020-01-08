@@ -1,0 +1,7 @@
+1.) cd 2036SkeletonCmake/
+
+2.) cmake .
+
+3.) make 
+
+4.) ./2036SkeletonCmake
